@@ -1,0 +1,13 @@
+{
+"companyName": "Stuart's Pixel Games",
+"productName": "Famished",
+"dataUrl": "PlatformerTest.data.unityweb",
+"asmCodeUrl": "PlatformerTest.asm.code.unityweb",
+"asmMemoryUrl": "PlatformerTest.asm.memory.unityweb",
+"asmFrameworkUrl": "PlatformerTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
